@@ -6,3 +6,5 @@ spacy
 langdetect
 word-forms
 contractions
+english_exercises
+en_core_web_sm
