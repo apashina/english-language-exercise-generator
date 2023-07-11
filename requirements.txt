@@ -1,2 +1,8 @@
 streamlit
 pandas
+sentence-splitter
+gensim
+spacy
+langdetect
+word-forms
+contractions
