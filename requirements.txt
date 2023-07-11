@@ -7,4 +7,4 @@ langdetect
 word-forms
 contractions
 
-en_core_web_sm
+en-core-web-sm
